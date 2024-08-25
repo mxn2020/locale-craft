@@ -1,0 +1,297 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "专业插画软件",
+    "description": "使用我们强大且直观的软件创建令人惊叹的插图。",
+    "og_title": "IllustratorPro - 专业插画软件",
+    "og_description": "通过 IllustratorPro 释放你的创造力。创建、编辑和分享令人惊叹的插图。",
+    "twitter_title": "IllustratorPro - 创建惊人的插图",
+    "twitter_description": "为各级艺术家提供的专业级插画软件。今天试用 IllustratorPro！"
+  },
+  "nav": {
+    "features": "功能",
+    "pricing": "价格",
+    "testimonials": "用户评价",
+    "faq": "常见问题",
+    "blog": "博客",
+    "get_started": "立即开始"
+  },
+  "hero": {
+    "title_a": "释放你的创造潜力",
+    "subtitle_a": "使用我们强大且直观的软件创建令人惊叹的插图。",
+    "cta_a": "立即开始创作",
+    "title_b": "轻松创建专业插图",
+    "subtitle_b": "利用我们的高级插画工具增强你的艺术视野。",
+    "cta_b": "免费试用",
+    "title_c": "通过 IllustratorPro 提升你的艺术",
+    "subtitle_c": "从概念到杰作：赋予你的创意生命。",
+    "cta_c": "开始你的旅程",
+    "title_d": "重新定义插画",
+    "subtitle_d": "前沿工具与无限创意的碰撞。今天开始你的免费试用。",
+    "cta_d": "开始免费试用",
+    "learn_more": "了解更多",
+    "image_alt": "插图展示"
+  },
+  "features": {
+    "title": "为每位艺术家提供强大功能",
+    "feature_1": {
+      "title": "高级画笔引擎",
+      "description": "使用我们可定制的画笔系统创建任何风格。"
+    },
+    "feature_2": {
+      "title": "图层管理",
+      "description": "使用直观的图层控制来组织你的工作。"
+    },
+    "feature_3": {
+      "title": "实时协作",
+      "description": "通过实时共享功能无缝协作。"
+    },
+    "feature_4": {
+      "title": "云集成",
+      "description": "随时随地访问你的项目。"
+    }
+  },
+  "demo": {
+    "title": "观看 IllustratorPro 的实际效果",
+    "loading": "加载演示中...",
+    "error": "哎呀！加载演示时出错了。",
+    "description": "通过我们的互动演示体验 IllustratorPro 的强大和灵活性。"
+  },
+  "pricing": {
+    "title": "选择适合你的完美计划",
+    "monthly": "月度",
+    "yearly": "年度",
+    "per_month": "/月",
+    "per_year": "/年",
+    "choose_plan": "选择 {{plan}}",
+    "plan_free": {
+      "name": "免费",
+      "feature_1": "基础工具和画笔",
+      "feature_2": "5 个云项目",
+      "feature_3": "社区支持"
+    },
+    "plan_pro": {
+      "name": "专业版",
+      "feature_1": "高级工具和画笔",
+      "feature_2": "无限制云项目",
+      "feature_3": "优先支持",
+      "feature_4": "协作功能"
+    },
+    "plan_enterprise": {
+      "name": "企业版",
+      "feature_1": "所有专业版功能",
+      "feature_2": "定制画笔开发",
+      "feature_3": "专属客户经理",
+      "feature_4": "内部部署选项"
+    },
+    "plan_ultimate": {
+      "name": "终极版",
+      "feature_1": "所有企业版功能",
+      "feature_2": "优先访问新功能",
+      "feature_3": "个人培训课程",
+      "feature_4": "定制集成支持"
+    }
+  },
+  "testimonials": {
+    "title": "用户评价",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "自由插画师",
+      "quote": "IllustratorPro 彻底改变了我的工作流程。直观的界面和强大的功能使我能比以往更快地实现我的想法。"
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "艺术总监",
+      "quote": "作为艺术总监，我需要能够跟上我们快速项目进度的可靠工具。IllustratorPro 在各方面都能满足需求。"
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "角色设计师",
+      "quote": "IllustratorPro 的画笔引擎无与伦比。我可以创建任何所需风格，从精美的矢量艺术到纹理插图。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "question_1": "IllustratorPro 适合初学者吗？",
+    "answer_1": "绝对适合！虽然 IllustratorPro 提供了适合专业人士的高级功能，但它也包含直观的工具和教程，使其易于初学者上手。",
+    "question_2": "我可以在多台设备上使用 IllustratorPro 吗？",
+    "answer_2": "是的，你的 IllustratorPro 许可证允许你在两台设备上使用该软件，并且我们的云集成确保你的项目始终保持最新。",
+    "question_3": "你们提供退款保证吗？",
+    "answer_3": "我们为所有付费计划提供 30 天退款保证。如果你对 IllustratorPro 不满意，可以在购买后的 30 天内申请全额退款。",
+    "question_4": "你们多久发布一次更新？",
+    "answer_4": "我们每月发布小更新和错误修复，主要功能更新通常每季度发布一次。所有更新对订阅用户免费。",
+    "question_5": "我可以从其他插画软件导入文件吗？",
+    "answer_5": "可以，IllustratorPro 支持从大多数主流插画软件导入文件，包括 .ai、.psd 和 .svg 格式。"
+  },
+  "blog": {
+    "title": "最新博客文章",
+    "read_more": "阅读更多",
+    "view_all": "查看所有文章",
+    "post_1": {
+      "title": "每位艺术家都应掌握的 10 种基本插画技巧",
+      "excerpt": "了解能将你的插图提升到更高水平的基础技术。"
+    },
+    "post_2": {
+      "title": "数字艺术家的色彩理论：完整指南",
+      "excerpt": "通过这份详细指南，学习如何在数字插图中有效使用颜色。"
+    },
+    "post_3": {
+      "title": "从草图到成品：逐步教程",
+      "excerpt": "在我们引导你从初步构思到最终作品的过程中，学习创建一个精美的插图。"
+    }
+  },
+  "resources": {
+    "title": "帮助你成功的资源",
+    "download": "下载",
+    "resource_1": {
+      "title": "数字插画入门指南",
+      "description": "全面的 PDF 指南，涵盖数字插画的基础知识。"
+    },
+    "resource_2": {
+      "title": "高级技术视频系列",
+      "description": "深入的插画技术视频教程。"
+    },
+    "resource_3": {
+      "title": "定制画笔包",
+      "description": "超过 50 款定制画笔的集合，帮助提升你的插图。"
+    }
+  },
+  "gamification": {
+    "title": "提升你的技能",
+    "level": "等级 {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "距离下一级还差 {{points}} XP",
+    "achievements": "成就",
+    "take_challenges": "接受新挑战"
+  },
+  "showcase": {
+    "title": "精选插图",
+    "illustration_1": "Maria Garcia 的奇幻景观",
+    "illustration_2": "Alex Wong 的角色设计",
+    "illustration_3": "Lena Mueller 的抽象构图"
+  },
+  "community": {
+    "title": "社区展示",
+    "by": "{{artist}}创作",
+    "view_gallery": "查看完整画廊",
+    "artwork_1": {
+      "alt": "未来城市景观插图",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "魔法森林生物插图",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "超现实主义肖像插图",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. 竞争对手",
+    "feature": "功能",
+    "us": "IllustratorPro",
+    "competitor_1": "竞争者 A",
+    "competitor_2": "竞争者 B",
+    "feature_1": "高级画笔引擎",
+    "feature_2": "实时协作",
+    "feature_3": "云集成",
+    "feature_4": "矢量和光栅支持",
+    "feature_5": "定制插件开发",
+    "feature_6": "24/7 优先支持"
+  },
+  "affiliate": {
+    "title": "加入我们的联盟计划",
+    "description": "通过向你的受众推广 IllustratorPro 赚取佣金。",
+    "join_now": "立即加入",
+    "benefit_1": {
+      "title": "高额佣金",
+      "description": "每次推荐销售可赚取高达 30% 的佣金。"
+    },
+    "benefit_2": {
+      "title": "营销材料",
+      "description": "访问横幅、登陆页和电子邮件模板库。"
+    },
+    "benefit_3": {
+      "title": "实时分析",
+      "description": "通过详细报告和分析跟踪你的业绩。"
+    }
+  },
+  "press": {
+    "title": "IllustratorPro 在媒体上",
+    "download_kit": "下载媒体包",
+    "item_1": {
+      "name": "文章 1",
+      "quote": "IllustratorPro 正在为数字插画行业树立新标准。"
+    },
+    "item_2": {
+      "name": "文章 2",
+      "quote": "无论是专业艺术家还是初学者，都是一次游戏规则的改变。"
+    },
+    "item_3": {
+      "name": "文章 3",
+      "quote": "这是我们多年来见过的最具创新性的插画软件。"
+    }
+  },
+  "integration": {
+    "title": "强大的集成",
+    "description": "将 IllustratorPro 与你最喜欢的工具和服务无缝连接。",
+    "view_all": "查看所有集成"
+  },
+  "education": {
+    "title": "教育资源",
+    "type": "资源类型",
+    "learn_more": "了解更多",
+    "explore_resources": "探索所有资源",
+    "resource_1": {
+      "title": "掌握数字插画",
+      "type": "视频课程"
+    },
+    "resource_2": {
+      "title": "色彩理论与构图",
+      "type": "互动教程"
+    },
+    "resource_3": {
+      "title": "动画插画",
+      "type": "网络研讨会系列"
+    }
+  },
+  "localization": {
+    "title": "支持多种语言",
+    "description": "IllustratorPro 针对全球用户进行了本地化。",
+    "view_all": "查看所有语言"
+  },
+  "social_proof": {
+    "title": "加入我们不断壮大的社区",
+    "active_users": "{{count}} 活跃用户",
+    "projects_created": "今天创建了 {{count}} 个项目"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "为各级艺术家提供的专业插画软件。",
+    "quick_links": "快速链接",
+    "features": "功能",
+    "pricing": "价格",
+    "testimonials": "用户评价",
+    "faq": "常见问题",
+    "blog": "博客",
+    "resources": "资源",
+    "legal": "法律",
+    "privacy_policy": "隐私政策",
+    "terms_of_service": "服务条款",
+    "newsletter": "时事通讯",
+    "enter_email": "输入你的电子邮箱",
+    "subscribe": "订阅",
+    "all_rights_reserved": "版权所有。"
+  },
+  "cookie_consent": {
+    "message": "我们使用 Cookie 来改善您的体验。继续访问本网站即表示您同意我们使用 Cookie。",
+    "accept": "接受"
+  },
+  "chatbot": {
+    "placeholder": "在此输入您的消息...",
+    "send": "发送",
+    "type_your_message": "输入您的消息...",
+    "error_message": "抱歉，发生了错误。请稍后再试。"
+  }
+}

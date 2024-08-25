@@ -1,0 +1,22 @@
+{
+  "layer1": "الطبقة 1",
+  "layer2": "الطبقة 2",
+  "activeLayer": "الطبقة النشطة",
+  "exportSVG": "تصدير كـ SVG",
+  "exportPNG": "تصدير كـ PNG",
+  "exportJPEG": "تصدير كـ JPEG",
+  "exportPDF": "تصدير كـ PDF",
+  "selectTool": "أداة التحديد",
+  "penTool": "أداة القلم",
+  "rectangleTool": "أداة المستطيل",
+  "ellipseTool": "أداة البيضاوي",
+  "draw": "رسم",
+  "layers": "الطبقات",
+  "strokeColor": "لون الخط",
+  "fillColor": "لون التعبئة",
+  "enableFill": "تفعيل التعبئة",
+  "disableFill": "تعطيل التعبئة",
+  "brushSize": "حجم الفرشاة",
+  "newLayer": "طبقة جديدة {{count}}",
+  "addLayer": "إضافة طبقة"
+}

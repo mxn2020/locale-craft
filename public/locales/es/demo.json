@@ -1,0 +1,22 @@
+{
+  "layer1": "Capa 1",
+  "layer2": "Capa 2",
+  "activeLayer": "Capa Activa",
+  "exportSVG": "Exportar como SVG",
+  "exportPNG": "Exportar como PNG",
+  "exportJPEG": "Exportar como JPEG",
+  "exportPDF": "Exportar como PDF",
+  "selectTool": "Herramienta de Selección",
+  "penTool": "Herramienta de Lápiz",
+  "rectangleTool": "Herramienta de Rectángulo",
+  "ellipseTool": "Herramienta de Elipse",
+  "draw": "Dibujar",
+  "layers": "Capas",
+  "strokeColor": "Color de Trazo",
+  "fillColor": "Color de Relleno",
+  "enableFill": "Activar Relleno",
+  "disableFill": "Desactivar Relleno",
+  "brushSize": "Tamaño del Pincel",
+  "newLayer": "Nueva Capa {{count}}",
+  "addLayer": "Añadir Capa"
+}

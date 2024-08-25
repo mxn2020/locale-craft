@@ -1,0 +1,297 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "Professional Illustration Software",
+    "description": "Create stunning illustrations with our powerful and intuitive software.",
+    "og_title": "IllustratorPro - Professional Illustration Software",
+    "og_description": "Unleash your creativity with IllustratorPro. Create, edit, and share stunning illustrations.",
+    "twitter_title": "IllustratorPro - Create Amazing Illustrations",
+    "twitter_description": "Professional-grade illustration software for artists of all levels. Try IllustratorPro today!"
+  },
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "title_a": "Unleash Your Creative Potential",
+    "subtitle_a": "Create stunning illustrations with our powerful and intuitive software.",
+    "cta_a": "Start Creating Now",
+    "title_b": "Professional Illustrations Made Easy",
+    "subtitle_b": "Empower your artistic vision with our advanced illustration tools.",
+    "cta_b": "Try It Free",
+    "title_c": "Elevate Your Art with IllustratorPro",
+    "subtitle_c": "From concept to masterpiece - bring your ideas to life.",
+    "cta_c": "Begin Your Journey",
+    "title_d": "Illustration Reimagined",
+    "subtitle_d": "Cutting-edge tools meet endless creativity. Start your free trial today.",
+    "cta_d": "Launch Your Free Trial",
+    "learn_more": "Learn More",
+    "image_alt": "Illustration showcase"
+  },
+  "features": {
+    "title": "Powerful Features for Every Artist",
+    "feature_1": {
+      "title": "Advanced Brush Engine",
+      "description": "Create any style with our customizable brush system."
+    },
+    "feature_2": {
+      "title": "Layer Management",
+      "description": "Organize your work with intuitive layer controls."
+    },
+    "feature_3": {
+      "title": "Real-Time Collaboration",
+      "description": "Work together seamlessly with live sharing features."
+    },
+    "feature_4": {
+      "title": "Cloud Integration",
+      "description": "Access your projects anywhere, anytime."
+    }
+  },
+  "demo": {
+    "title": "See IllustratorPro in Action",
+    "loading": "Loading demo...",
+    "error": "Oops! Something went wrong loading the demo.",
+    "description": "Experience the power and flexibility of IllustratorPro with our interactive demo."
+  },
+  "pricing": {
+    "title": "Choose the Perfect Plan for You",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "per_month": "/month",
+    "per_year": "/year",
+    "choose_plan": "Choose {{plan}}",
+    "plan_free": {
+      "name": "Free",
+      "feature_1": "Basic tools and brushes",
+      "feature_2": "5 cloud projects",
+      "feature_3": "Community support"
+    },
+    "plan_pro": {
+      "name": "Pro",
+      "feature_1": "Advanced tools and brushes",
+      "feature_2": "Unlimited cloud projects",
+      "feature_3": "Priority support",
+      "feature_4": "Collaboration features"
+    },
+    "plan_enterprise": {
+      "name": "Enterprise",
+      "feature_1": "All Pro features",
+      "feature_2": "Custom brush development",
+      "feature_3": "Dedicated account manager",
+      "feature_4": "On-premises deployment option"
+    },
+    "plan_ultimate": {
+      "name": "Ultimate",
+      "feature_1": "All Enterprise features",
+      "feature_2": "Early access to new features",
+      "feature_3": "Personal training sessions",
+      "feature_4": "Custom integration support"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "Freelance Illustrator",
+      "quote": "IllustratorPro has revolutionized my workflow. The intuitive interface and powerful features allow me to bring my ideas to life faster than ever."
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "Art Director",
+      "quote": "As an art director, I need reliable tools that can keep up with our fast-paced projects. IllustratorPro delivers on all fronts."
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "Character Designer",
+      "quote": "The brush engine in IllustratorPro is unparalleled. I can create any style I need, from sleek vector art to textured illustrations."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "question_1": "Is IllustratorPro suitable for beginners?",
+    "answer_1": "Absolutely! While IllustratorPro offers advanced features for professionals, it also includes intuitive tools and tutorials that make it accessible for beginners.",
+    "question_2": "Can I use IllustratorPro on multiple devices?",
+    "answer_2": "Yes, your IllustratorPro license allows you to use the software on up to two devices, and our cloud integration ensures your projects are always up to date.",
+    "question_3": "Do you offer a money-back guarantee?",
+    "answer_3": "We offer a 30-day money-back guarantee for all paid plans. If you're not satisfied with IllustratorPro, you can request a full refund within the first 30 days of your purchase.",
+    "question_4": "How often do you release updates?",
+    "answer_4": "We release minor updates and bug fixes monthly, with major feature updates typically released quarterly. All updates are free for subscribers.",
+    "question_5": "Can I import files from other illustration software?",
+    "answer_5": "Yes, IllustratorPro supports importing files from most major illustration software, including .ai, .psd, and .svg formats."
+  },
+  "blog": {
+    "title": "Latest from Our Blog",
+    "read_more": "Read More",
+    "view_all": "View All Posts",
+    "post_1": {
+      "title": "10 Essential Illustration Techniques Every Artist Should Know",
+      "excerpt": "Discover the fundamental techniques that can elevate your illustrations to the next level."
+    },
+    "post_2": {
+      "title": "Color Theory for Digital Artists: A Comprehensive Guide",
+      "excerpt": "Learn how to use color effectively in your digital illustrations with this in-depth guide."
+    },
+    "post_3": {
+      "title": "From Sketch to Final Artwork: A Step-by-Step Tutorial",
+      "excerpt": "Follow along as we take you through the process of creating a polished illustration from initial concept to final piece."
+    }
+  },
+  "resources": {
+    "title": "Resources to Help You Succeed",
+    "download": "Download",
+    "resource_1": {
+      "title": "Beginner's Guide to Digital Illustration",
+      "description": "A comprehensive PDF guide covering the basics of digital illustration."
+    },
+    "resource_2": {
+      "title": "Advanced Techniques Video Series",
+      "description": "In-depth video tutorials exploring advanced illustration techniques."
+    },
+    "resource_3": {
+      "title": "Custom Brush Pack",
+      "description": "A collection of 50+ custom brushes to enhance your illustrations."
+    }
+  },
+  "gamification": {
+    "title": "Level Up Your Skills",
+    "level": "Level {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "{{points}} XP to next level",
+    "achievements": "Achievements",
+    "take_challenges": "Take on New Challenges"
+  },
+  "showcase": {
+    "title": "Featured Illustrations",
+    "illustration_1": "Fantasy landscape by Maria Garcia",
+    "illustration_2": "Character design by Alex Wong",
+    "illustration_3": "Abstract composition by Lena Mueller"
+  },
+  "community": {
+    "title": "Community Showcase",
+    "by": "by {{artist}}",
+    "view_gallery": "View Full Gallery",
+    "artwork_1": {
+      "alt": "Futuristic cityscape illustration",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "Whimsical forest creatures illustration",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "Surreal portrait illustration",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. Competitors",
+    "feature": "Feature",
+    "us": "IllustratorPro",
+    "competitor_1": "Competitor A",
+    "competitor_2": "Competitor B",
+    "feature_1": "Advanced Brush Engine",
+    "feature_2": "Real-Time Collaboration",
+    "feature_3": "Cloud Integration",
+    "feature_4": "Vector and Raster Support",
+    "feature_5": "Custom Plugin Development",
+    "feature_6": "24/7 Priority Support"
+  },
+  "affiliate": {
+    "title": "Join Our Affiliate Program",
+    "description": "Earn commissions by promoting IllustratorPro to your audience.",
+    "join_now": "Join Now",
+    "benefit_1": {
+      "title": "High Commissions",
+      "description": "Earn up to 30% on each sale you refer."
+    },
+    "benefit_2": {
+      "title": "Marketing Materials",
+      "description": "Access a library of banners, landing pages, and email templates."
+    },
+    "benefit_3": {
+      "title": "Real-Time Analytics",
+      "description": "Track your performance with detailed reports and insights."
+    }
+  },
+  "press": {
+    "title": "IllustratorPro in the Press",
+    "download_kit": "Download Press Kit",
+    "item_1": {
+      "name": "Press Item 1",
+      "quote": "IllustratorPro is setting new standards in the digital illustration industry."
+    },
+    "item_2": {
+      "name": "Press Item 2",
+      "quote": "A game-changer for both professional and aspiring artists."
+    },
+    "item_3": {
+      "name": "Press Item 3",
+      "quote": "The most innovative illustration software we've seen in years."
+    }
+  },
+  "integration": {
+    "title": "Powerful Integrations",
+    "description": "Seamlessly connect IllustratorPro with your favorite tools and services.",
+    "view_all": "View All Integrations"
+  },
+  "education": {
+    "title": "Educational Resources",
+    "type": "Resource Type",
+    "learn_more": "Learn More",
+    "explore_resources": "Explore All Resources",
+    "resource_1": {
+      "title": "Mastering Digital Illustration",
+      "type": "Video Course"
+    },
+    "resource_2": {
+      "title": "Color Theory and Composition",
+      "type": "Interactive Tutorial"
+    },
+    "resource_3": {
+      "title": "Illustration for Animation",
+      "type": "Webinar Series"
+    }
+  },
+  "localization": {
+    "title": "Available in Your Language",
+    "description": "IllustratorPro is localized for users around the world.",
+    "view_all": "View All Languages"
+  },
+  "social_proof": {
+    "title": "Join Our Growing Community",
+    "active_users": "{{count}} active users",
+    "projects_created": "{{count}} projects created today"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "Professional illustration software for artists of all levels.",
+    "quick_links": "Quick Links",
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "newsletter": "Newsletter",
+    "enter_email": "Enter your email",
+    "subscribe": "Subscribe",
+    "all_rights_reserved": "All rights reserved."
+  },
+  "cookie_consent": {
+    "message": "We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.",
+    "accept": "Accept"
+  },
+  "chatbot": {
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "type_your_message": "Type your message here...",
+    "error_message": "I'm sorry, but I encountered an error. Please try again later."
+  }
+}

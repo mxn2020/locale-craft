@@ -1,0 +1,22 @@
+{
+  "layer1": "Ebene 1",
+  "layer2": "Ebene 2",
+  "activeLayer": "Aktive Ebene",
+  "exportSVG": "Als SVG exportieren",
+  "exportPNG": "Als PNG exportieren",
+  "exportJPEG": "Als JPEG exportieren",
+  "exportPDF": "Als PDF exportieren",
+  "selectTool": "Auswahlwerkzeug",
+  "penTool": "Stiftwerkzeug",
+  "rectangleTool": "Rechteckwerkzeug",
+  "ellipseTool": "Ellipsenwerkzeug",
+  "draw": "Zeichnen",
+  "layers": "Ebenen",
+  "strokeColor": "Konturfarbe",
+  "fillColor": "Füllfarbe",
+  "enableFill": "Füllung aktivieren",
+  "disableFill": "Füllung deaktivieren",
+  "brushSize": "Pinselgröße",
+  "newLayer": "Neue Ebene {{count}}",
+  "addLayer": "Ebene hinzufügen"
+}

@@ -1,0 +1,22 @@
+{
+  "layer1": "Camada 1",
+  "layer2": "Camada 2",
+  "activeLayer": "Camada Ativa",
+  "exportSVG": "Exportar como SVG",
+  "exportPNG": "Exportar como PNG",
+  "exportJPEG": "Exportar como JPEG",
+  "exportPDF": "Exportar como PDF",
+  "selectTool": "Ferramenta de Seleção",
+  "penTool": "Ferramenta Caneta",
+  "rectangleTool": "Ferramenta Retângulo",
+  "ellipseTool": "Ferramenta Elipse",
+  "draw": "Desenhar",
+  "layers": "Camadas",
+  "strokeColor": "Cor do Contorno",
+  "fillColor": "Cor de Preenchimento",
+  "enableFill": "Ativar Preenchimento",
+  "disableFill": "Desativar Preenchimento",
+  "brushSize": "Tamanho do Pincel",
+  "newLayer": "Nova Camada {{count}}",
+  "addLayer": "Adicionar Camada"
+}

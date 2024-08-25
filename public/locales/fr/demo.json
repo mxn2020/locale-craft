@@ -1,0 +1,22 @@
+{
+  "layer1": "Calque 1",
+  "layer2": "Calque 2",
+  "activeLayer": "Calque Actif",
+  "exportSVG": "Exporter en SVG",
+  "exportPNG": "Exporter en PNG",
+  "exportJPEG": "Exporter en JPEG",
+  "exportPDF": "Exporter en PDF",
+  "selectTool": "Outil de Sélection",
+  "penTool": "Outil Crayon",
+  "rectangleTool": "Outil Rectangle",
+  "ellipseTool": "Outil Ellipse",
+  "draw": "Dessiner",
+  "layers": "Calques",
+  "strokeColor": "Couleur de Contour",
+  "fillColor": "Couleur de Remplissage",
+  "enableFill": "Activer le Remplissage",
+  "disableFill": "Désactiver le Remplissage",
+  "brushSize": "Taille du Pinceau",
+  "newLayer": "Nouveau Calque {{count}}",
+  "addLayer": "Ajouter un Calque"
+}

@@ -1,0 +1,311 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "Professionelle Illustrationssoftware",
+    "description": "Erstellen Sie atemberaubende Illustrationen mit unserer leistungsstarken und intuitiven Software.",
+    "og_title": "IllustratorPro - Professionelle Illustrationssoftware",
+    "og_description": "Entfesseln Sie Ihre Kreativität mit IllustratorPro. Erstellen, bearbeiten und teilen Sie atemberaubende Illustrationen.",
+    "twitter_title": "IllustratorPro - Erstellen Sie erstaunliche Illustrationen",
+    "twitter_description": "Professionelle Illustrationssoftware für Künstler aller Niveaus. Probieren Sie IllustratorPro noch heute aus!"
+  },
+  "nav": {
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "testimonials": "Referenzen",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "get_started": "Loslegen"
+  },
+  "hero": {
+    "title_a": "Entfesseln Sie Ihr kreatives Potenzial",
+    "subtitle_a": "Erstellen Sie atemberaubende Illustrationen mit unserer leistungsstarken und intuitiven Software.",
+    "cta_a": "Jetzt loslegen",
+    "title_b": "Professionelle Illustrationen leicht gemacht",
+    "subtitle_b": "Stärken Sie Ihre künstlerische Vision mit unseren fortschrittlichen Illustrationswerkzeugen.",
+    "cta_b": "Kostenlos testen",
+    "title_c": "Heben Sie Ihre Kunst mit IllustratorPro auf ein neues Niveau",
+    "subtitle_c": "Von der Konzeption zum Meisterwerk - bringen Sie Ihre Ideen zum Leben.",
+    "cta_c": "Starten Sie Ihre Reise",
+    "title_d": "Illustration neu gedacht",
+    "subtitle_d": "Modernste Werkzeuge treffen auf grenzenlose Kreativität. Starten Sie noch heute Ihre kostenlose Testversion.",
+    "cta_d": "Kostenlose Testversion starten",
+    "learn_more": "Mehr erfahren",
+    "image_alt": "Illustration Showcase"
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für jeden Künstler",
+    "feature_1": {
+      "title": "Fortschrittliche Pinsel-Engine",
+      "description": "Erstellen Sie jeden Stil mit unserem anpassbaren Pinselsystem."
+    },
+    "feature_2": {
+      "title": "Ebenenverwaltung",
+      "description": "Organisieren Sie Ihre Arbeit mit intuitiven Ebenensteuerungen."
+    },
+    "feature_3": {
+      "title": "Echtzeit-Zusammenarbeit",
+      "description": "Arbeiten Sie nahtlos zusammen mit Live-Sharing-Funktionen."
+    },
+    "feature_4": {
+      "title": "Cloud-Integration",
+      "description": "Greifen Sie von überall und jederzeit auf Ihre Projekte zu."
+    }
+  },
+  "demo": {
+    "title": "Sehen Sie IllustratorPro in Aktion",
+    "loading": "Demo wird geladen...",
+    "error": "Hoppla! Beim Laden der Demo ist etwas schief gelaufen.",
+    "description": "Erleben Sie die Leistungsfähigkeit und Flexibilität von IllustratorPro mit unserer interaktiven Demo."
+  },
+  "pricing": {
+    "title": "Wählen Sie den perfekten Plan für Sie",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "per_month": "/Monat",
+    "per_year": "/Jahr",
+    "choose_plan": "{{plan}} wählen",
+    "plan_free": {
+      "name": "Kostenlos",
+      "feature_1": "Grundlegende Werkzeuge und Pinsel",
+      "feature_2": "5 Cloud-Projekte",
+      "feature_3": "Community-Support"
+    },
+    "plan_pro": {
+      "name": "Pro",
+      "feature_1": "Erweiterte Werkzeuge und Pinsel",
+      "feature_2": "Unbegrenzte Cloud-Projekte",
+      "feature_3": "Prioritäts-Support",
+      "feature_4": "Kollaborationsfunktionen"
+    },
+    "plan_enterprise": {
+      "name": "Unternehmen",
+      "feature_1": "Alle Pro-Funktionen",
+      "feature_2": "Benutzerdefinierte Pinselentwicklung",
+      "feature_3": "Dedizierter Account-Manager",
+      "feature_4": "Option für On-Premises-Bereitstellung"
+    },
+    "plan_ultimate": {
+      "name": "Ultimate",
+      "feature_1": "Alle Enterprise-Funktionen",
+      "feature_2": "Frühzeitiger Zugang zu neuen Funktionen",
+      "feature_3": "Persönliche Trainingseinheiten",
+      "feature_4": "Benutzerdefinierter Integrationssupport"
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "Freiberufliche Illustratorin",
+      "quote": "IllustratorPro hat meinen Arbeitsablauf revolutioniert. Die intuitive Benutzeroberfläche und leistungsstarken Funktionen ermöglichen es mir, meine Ideen schneller als je zuvor zum Leben zu erwecken."
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "Art Director",
+      "quote": "Als Art Director benötige ich zuverlässige Tools, die mit unseren schnelllebigen Projekten Schritt halten können. IllustratorPro erfüllt alle Anforderungen."
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "Charakter-Designerin",
+      "quote": "Die Pinsel-Engine in IllustratorPro ist unübertroffen. Ich kann jeden Stil erstellen, den ich brauche, von eleganter Vektorgrafik bis hin zu texturierten Illustrationen."
+}
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "question_1": "Ist IllustratorPro für Anfänger geeignet?",
+    "answer_1": "Auf jeden Fall! Während IllustratorPro fortgeschrittene Funktionen für Profis bietet, enthält es auch intuitive Werkzeuge und Tutorials, die es für Anfänger zugänglich machen.",
+    "question_2": "Kann ich IllustratorPro auf mehreren Geräten verwenden?",
+    "answer_2": "Ja, Ihre IllustratorPro-Lizenz erlaubt Ihnen die Nutzung der Software auf bis zu zwei Geräten, und unsere Cloud-Integration stellt sicher, dass Ihre Projekte immer auf dem neuesten Stand sind.",
+    "question_3": "Bieten Sie eine Geld-zurück-Garantie?",
+    "answer_3": "Wir bieten eine 30-Tage-Geld-zurück-Garantie für alle bezahlten Pläne. Wenn Sie mit IllustratorPro nicht zufrieden sind, können Sie innerhalb der ersten 30 Tage nach Ihrem Kauf eine vollständige Rückerstattung beantragen.",
+    "question_4": "Wie oft veröffentlichen Sie Updates?",
+    "answer_4": "Wir veröffentlichen monatlich kleinere Updates und Fehlerbehebungen, mit größeren Feature-Updates, die in der Regel vierteljährlich erscheinen. Alle Updates sind für Abonnenten kostenlos.",
+    "question_5": "Kann ich Dateien aus anderen Illustrationsprogrammen importieren?",
+    "answer_5": "Ja, IllustratorPro unterstützt den Import von Dateien aus den meisten großen Illustrationsprogrammen, einschließlich .ai, .psd und .svg Formate."
+  },
+  "blog": {
+    "title": "Neueste Beiträge aus unserem Blog",
+    "read_more": "Weiterlesen",
+    "view_all": "Alle Beiträge anzeigen",
+    "post_1": {
+      "title": "10 essenzielle Illustrationstechniken, die jeder Künstler kennen sollte",
+      "excerpt": "Entdecken Sie die grundlegenden Techniken, die Ihre Illustrationen auf die nächste Stufe heben können."
+    },
+    "post_2": {
+      "title": "Farbtheorie für digitale Künstler: Ein umfassender Leitfaden",
+      "excerpt": "Lernen Sie mit diesem ausführlichen Leitfaden, wie Sie Farbe effektiv in Ihren digitalen Illustrationen einsetzen können."
+    },
+    "post_3": {
+      "title": "Von der Skizze zum fertigen Kunstwerk: Ein Schritt-für-Schritt-Tutorial",
+      "excerpt": "Folgen Sie uns, während wir Sie durch den Prozess der Erstellung einer polierten Illustration vom ersten Konzept bis zum fertigen Stück führen."
+    }
+  },
+  "resources": {
+    "title": "Ressourcen für Ihren Erfolg",
+    "download": "Herunterladen",
+    "resource_1": {
+      "title": "Anfängerleitfaden für digitale Illustration",
+      "description": "Ein umfassender PDF-Leitfaden, der die Grundlagen der digitalen Illustration abdeckt."
+    },
+    "resource_2": {
+      "title": "Fortgeschrittene Techniken Video-Serie",
+      "description": "Ausführliche Video-Tutorials, die fortgeschrittene Illustrationstechniken erkunden."
+    },
+    "resource_3": {
+      "title": "Benutzerdefiniertes Pinsel-Paket",
+      "description": "Eine Sammlung von über 50 benutzerdefinierten Pinseln zur Verbesserung Ihrer Illustrationen."
+    }
+  },
+  "gamification": {
+    "title": "Verbessern Sie Ihre Fähigkeiten",
+    "level": "Level {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "{{points}} XP bis zum nächsten Level",
+    "achievements": "Errungenschaften",
+    "take_challenges": "Neue Herausforderungen annehmen"
+  },
+  "showcase": {
+    "title": "Ausgewählte Illustrationen",
+    "illustration_1": "Fantasielandschaft von Maria Garcia",
+    "illustration_2": "Charakterdesign von Alex Wong",
+    "illustration_3": "Abstrakte Komposition von Lena Müller"
+  },
+  "community": {
+    "title": "Community-Showcase",
+    "by": "von {{artist}}",
+    "view_gallery": "Vollständige Galerie anzeigen",
+    "artwork_1": {
+      "alt": "Futuristische Stadtlandschaftsillustration",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "Illustration von fantasievollen Waldkreaturen",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "Surreale Porträtillustration",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. Wettbewerber",
+    "feature": "Funktion",
+    "us": "IllustratorPro",
+    "competitor_1": "Wettbewerber A",
+    "competitor_2": "Wettbewerber B",
+    "feature_1": "Fortschrittliche Pinsel-Engine",
+    "feature_2": "Echtzeit-Zusammenarbeit",
+    "feature_3": "Cloud-Integration",
+    "feature_4": "Vektor- und Raster-Unterstützung",
+    "feature_5": "Benutzerdefinierte Plugin-Entwicklung",
+    "feature_6": "24/7 Prioritäts-Support"
+  },
+  "affiliate": {
+    "title": "Treten Sie unserem Partner-Programm bei",
+    "description": "Verdienen Sie Provisionen, indem Sie IllustratorPro Ihrem Publikum empfehlen.",
+    "join_now": "Jetzt beitreten",
+    "benefit_1": {
+      "title": "Hohe Provisionen",
+      "description": "Verdienen Sie bis zu 30% für jeden vermittelten Verkauf."
+    },
+    "benefit_2": {
+      "title": "Marketing-Materialien",
+      "description": "Zugriff auf eine Bibliothek von Bannern, Landingpages und E-Mail-Vorlagen."
+    },
+    "benefit_3": {
+      "title": "Echtzeit-Analysen",
+      "description": "Verfolgen Sie Ihre Leistung mit detaillierten Berichten und Einblicken."
+    }
+  },
+  "press": {
+    "title": "IllustratorPro in der Presse",
+    "download_kit": "Presse-Kit herunterladen",
+    "quote_1": "IllustratorPro setzt neue Standards in der digitalen Illustrationsbranche.",
+    "quote_2": "Ein Wendepunkt für professionelle und aufstrebende Künstler.",
+    "quote_3": "Die innovativste Illustrationssoftware, die wir seit Jahren gesehen haben."
+  },
+  "roadmap": {
+    "title": "Produkt-Roadmap",
+    "request_feature": "Feature anfordern",
+    "feature_placeholder": "Beschreiben Sie Ihre Feature-Idee...",
+    "submit_feature": "Feature-Anfrage einreichen",
+    "status": {
+      "in_progress": "In Arbeit",
+      "planned": "Geplant",
+      "upcoming": "Bevorstehend"
+    },
+    "item_1": {
+      "title": "KI-unterstützte Farbgebung",
+      "description": "Intelligente Farbvorschläge basierend auf Ihrem Illustrationsstil."
+    },
+    "item_2": {
+      "title": "3D-Integration",
+      "description": "Importieren und manipulieren Sie 3D-Modelle direkt in Ihren Illustrationen."
+    },
+    "item_3": {
+      "title": "Bewegte Illustrationen",
+      "description": "Erwecken Sie Ihre statischen Illustrationen mit einfachen Animationswerkzeugen zum Leben."
+    }
+  },
+  "integrations": {
+    "title": "Leistungsstarke Integrationen",
+    "description": "Verbinden Sie IllustratorPro nahtlos mit Ihren bevorzugten Tools und Diensten.",
+    "view_all": "Alle Integrationen anzeigen"
+  },
+  "education": {
+    "title": "Bildungsressourcen",
+    "type": "Artikel",
+    "learn_more": "Mehr erfahren",
+    "explore_resources": "Alle Ressourcen erkunden",
+    "resource_1": {
+      "title": "Meistern der digitalen Illustration",
+      "type": "Video-Kurs"
+    },
+    "resource_2": {
+      "title": "Farbtheorie und Komposition",
+      "type": "Interaktives Tutorial"
+    },
+    "resource_3": {
+      "title": "Illustration für Animation",
+      "type": "Webinar-Serie"
+    }
+  },
+  "localization": {
+    "title": "Verfügbar in Ihrer Sprache",
+    "description": "IllustratorPro ist für Benutzer auf der ganzen Welt lokalisiert.",
+    "view_all": "Alle Sprachen anzeigen"
+  },
+  "social_proof": {
+    "title": "Treten Sie unserer wachsenden Community bei",
+    "active_users": "{{count}} aktive Benutzer",
+    "projects_created": "{{count}} Projekte heute erstellt"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "Professionelle Illustrationssoftware für Künstler aller Niveaus.",
+    "quick_links": "Schnelllinks",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "testimonials": "Referenzen",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "resources": "Ressourcen",
+    "legal": "Rechtliches",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "terms_of_service": "Nutzungsbedingungen",
+    "newsletter": "Newsletter",
+    "enter_email": "E-Mail-Adresse eingeben",
+    "subscribe": "Abonnieren",
+    "all_rights_reserved": "Alle Rechte vorbehalten."
+  },
+  "cookie_consent": {
+    "message": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Durch die weitere Nutzung dieser Website stimmen Sie der Verwendung von Cookies zu.",
+    "accept": "Akzeptieren"
+  },
+  "chatbot": {
+    "placeholder": "Geben Sie hier Ihre Nachricht ein...",
+    "send": "Senden",
+    "type_your_message": "Geben Sie Ihre Nachricht ein...",
+    "error_message": "Es tut mir leid, aber ich bin auf einen Fehler gestoßen. Bitte versuchen Sie es später erneut."
+  }
+}

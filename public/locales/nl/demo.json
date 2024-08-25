@@ -1,0 +1,22 @@
+{
+  "layer1": "Laag 1",
+  "layer2": "Laag 2",
+  "activeLayer": "Actieve Laag",
+  "exportSVG": "Exporteren als SVG",
+  "exportPNG": "Exporteren als PNG",
+  "exportJPEG": "Exporteren als JPEG",
+  "exportPDF": "Exporteren als PDF",
+  "selectTool": "Selectiegereedschap",
+  "penTool": "Pengereedschap",
+  "rectangleTool": "Rechthoekgereedschap",
+  "ellipseTool": "Ellipsgereedschap",
+  "draw": "Tekenen",
+  "layers": "Lagen",
+  "strokeColor": "Lijnkleur",
+  "fillColor": "Opvulkleur",
+  "enableFill": "Vulling inschakelen",
+  "disableFill": "Vulling uitschakelen",
+  "brushSize": "Penseelgrootte",
+  "newLayer": "Nieuwe Laag {{count}}",
+  "addLayer": "Laag toevoegen"
+}

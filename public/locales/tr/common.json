@@ -1,0 +1,297 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "Profesyonel İllüstrasyon Yazılımı",
+    "description": "Güçlü ve kullanıcı dostu yazılımımızla çarpıcı illüstrasyonlar oluşturun.",
+    "og_title": "IllustratorPro - Profesyonel İllüstrasyon Yazılımı",
+    "og_description": "IllustratorPro ile yaratıcılığınızı ortaya çıkarın. Çarpıcı illüstrasyonlar oluşturun, düzenleyin ve paylaşın.",
+    "twitter_title": "IllustratorPro - Harika İllüstrasyonlar Oluşturun",
+    "twitter_description": "Her seviyedeki sanatçılar için profesyonel düzeyde illüstrasyon yazılımı. IllustratorPro'yu bugün deneyin!"
+  },
+  "nav": {
+    "features": "Özellikler",
+    "pricing": "Fiyatlar",
+    "testimonials": "Görüşler",
+    "faq": "SSS",
+    "blog": "Blog",
+    "get_started": "Başlayın"
+  },
+  "hero": {
+    "title_a": "Yaratıcı Potansiyelinizi Ortaya Çıkarın",
+    "subtitle_a": "Güçlü ve kullanıcı dostu yazılımımızla çarpıcı illüstrasyonlar oluşturun.",
+    "cta_a": "Hemen Başlayın",
+    "title_b": "Profesyonel İllüstrasyonları Kolayca Oluşturun",
+    "subtitle_b": "Gelişmiş illüstrasyon araçlarımızla sanatsal vizyonunuzu güçlendirin.",
+    "cta_b": "Ücretsiz Deneyin",
+    "title_c": "Sanatınızı IllustratorPro ile Yükseltin",
+    "subtitle_c": "Konseptten başyapıta: Fikirlerinize hayat verin.",
+    "cta_c": "Yolculuğunuza Başlayın",
+    "title_d": "İllüstrasyon Yeniden Tasarlandı",
+    "subtitle_d": "En son teknoloji araçlar sonsuz yaratıcılıkla buluşuyor. Bugün ücretsiz deneme sürümünü başlatın.",
+    "cta_d": "Ücretsiz Denemenizi Başlatın",
+    "learn_more": "Daha Fazla Bilgi Edinin",
+    "image_alt": "İllüstrasyon Gösterimi"
+  },
+  "features": {
+    "title": "Her Sanatçı İçin Güçlü Özellikler",
+    "feature_1": {
+      "title": "Gelişmiş Fırça Motoru",
+      "description": "Özelleştirilebilir fırça sistemimizle her stili oluşturun."
+    },
+    "feature_2": {
+      "title": "Katman Yönetimi",
+      "description": "Çalışmanızı sezgisel katman kontrolleriyle düzenleyin."
+    },
+    "feature_3": {
+      "title": "Gerçek Zamanlı İş Birliği",
+      "description": "Canlı paylaşım özellikleriyle sorunsuz bir şekilde birlikte çalışın."
+    },
+    "feature_4": {
+      "title": "Bulut Entegrasyonu",
+      "description": "Projelerinize her yerden, her zaman erişin."
+    }
+  },
+  "demo": {
+    "title": "IllustratorPro'yu İş Başında Görün",
+    "loading": "Demo yükleniyor...",
+    "error": "Üzgünüz! Demoyu yüklerken bir sorun oluştu.",
+    "description": "IllustratorPro'nun gücünü ve esnekliğini etkileşimli demomuzla deneyimleyin."
+  },
+  "pricing": {
+    "title": "Sizin İçin Mükemmel Planı Seçin",
+    "monthly": "Aylık",
+    "yearly": "Yıllık",
+    "per_month": "/ay",
+    "per_year": "/yıl",
+    "choose_plan": "{{plan}} Seçin",
+    "plan_free": {
+      "name": "Ücretsiz",
+      "feature_1": "Temel araçlar ve fırçalar",
+      "feature_2": "5 bulut projesi",
+      "feature_3": "Topluluk desteği"
+    },
+    "plan_pro": {
+      "name": "Pro",
+      "feature_1": "Gelişmiş araçlar ve fırçalar",
+      "feature_2": "Sınırsız bulut projeleri",
+      "feature_3": "Öncelikli destek",
+      "feature_4": "İş birliği özellikleri"
+    },
+    "plan_enterprise": {
+      "name": "Kurumsal",
+      "feature_1": "Tüm Pro özellikleri",
+      "feature_2": "Özelleştirilmiş fırça geliştirme",
+      "feature_3": "Özel hesap yöneticisi",
+      "feature_4": "Yerel dağıtım seçeneği"
+    },
+    "plan_ultimate": {
+      "name": "Ultimate",
+      "feature_1": "Tüm Kurumsal özellikler",
+      "feature_2": "Yeni özelliklere erken erişim",
+      "feature_3": "Kişisel eğitim oturumları",
+      "feature_4": "Özel entegrasyon desteği"
+    }
+  },
+  "testimonials": {
+    "title": "Kullanıcılarımız Ne Diyor",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "Freelance İllüstratör",
+      "quote": "IllustratorPro iş akışımı tamamen değiştirdi. Sezgisel arayüzü ve güçlü özellikleri, fikirlerimi her zamankinden daha hızlı hayata geçirmemi sağlıyor."
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "Sanat Yönetmeni",
+      "quote": "Sanat yönetmeni olarak, hızlı tempolu projelerimizin hızına ayak uydurabilecek güvenilir araçlara ihtiyacım var. IllustratorPro tüm gereksinimleri karşılıyor."
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "Karakter Tasarımcısı",
+      "quote": "IllustratorPro'nun fırça motoru benzersiz. İhtiyacım olan her stili oluşturabiliyorum, şık vektör sanatından dokulu illüstrasyonlara kadar."
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "question_1": "IllustratorPro yeni başlayanlar için uygun mu?",
+    "answer_1": "Kesinlikle! IllustratorPro, profesyoneller için gelişmiş özellikler sunarken, aynı zamanda yeni başlayanlar için erişilebilir kılan sezgisel araçlar ve öğreticiler içerir.",
+    "question_2": "IllustratorPro'yu birden fazla cihazda kullanabilir miyim?",
+    "answer_2": "Evet, IllustratorPro lisansınız yazılımı iki cihaza kadar kullanmanıza olanak tanır ve bulut entegrasyonumuz, projelerinizin her zaman güncel olmasını sağlar.",
+    "question_3": "Para iade garantisi sunuyor musunuz?",
+    "answer_3": "Tüm ücretli planlar için 30 günlük para iade garantisi sunuyoruz. IllustratorPro'dan memnun kalmazsanız, satın alma işleminizden sonraki ilk 30 gün içinde tam geri ödeme talep edebilirsiniz.",
+    "question_4": "Ne sıklıkla güncellemeler yayımlıyorsunuz?",
+    "answer_4": "Aylık olarak küçük güncellemeler ve hata düzeltmeleri yayımlıyoruz, ana özellik güncellemeleri ise genellikle üç ayda bir yayımlanır. Tüm güncellemeler aboneler için ücretsizdir.",
+    "question_5": "Diğer illüstrasyon yazılımlarından dosya alabilir miyim?",
+    "answer_5": "Evet, IllustratorPro, çoğu ana illüstrasyon yazılımından dosya alımını destekler; .ai, .psd ve .svg formatları dahildir."
+  },
+  "blog": {
+    "title": "Blogumuzdaki Son Yazılar",
+    "read_more": "Daha Fazla Oku",
+    "view_all": "Tüm Gönderileri Görüntüle",
+    "post_1": {
+      "title": "Her Sanatçının Bilmesi Gereken 10 Temel İllüstrasyon Tekniği",
+      "excerpt": "İllüstrasyonlarınızı bir sonraki seviyeye taşıyabilecek temel teknikleri keşfedin."
+    },
+    "post_2": {
+      "title": "Dijital Sanatçılar için Renk Teorisi: Kapsamlı Bir Kılavuz",
+      "excerpt": "Bu ayrıntılı kılavuzla dijital illüstrasyonlarınızda rengi etkili bir şekilde nasıl kullanacağınızı öğrenin."
+    },
+    "post_3": {
+      "title": "Eskizden Final Eserine: Adım Adım Bir Eğitim",
+      "excerpt": "İlk konseptten nihai parçaya kadar cilalı bir illüstrasyon yaratma sürecinde size rehberlik ederken bize katılın."
+    }
+  },
+  "resources": {
+    "title": "Başarılı Olmanıza Yardımcı Olacak Kaynaklar",
+    "download": "İndir",
+    "resource_1": {
+      "title": "Dijital İllüstrasyona Yeni Başlayanlar İçin Kılavuz",
+      "description": "Dijital illüstrasyonun temellerini kapsayan kapsamlı bir PDF kılavuzu."
+    },
+    "resource_2": {
+      "title": "Gelişmiş Teknikler Video Serisi",
+      "description": "Gelişmiş illüstrasyon tekniklerini keşfeden ayrıntılı video öğreticileri."
+    },
+    "resource_3": {
+      "title": "Özel Fırça Paketi",
+      "description": "İllüstrasyonlarınızı geliştirmenize yardımcı olacak 50'den fazla özel fırçadan oluşan bir koleksiyon."
+    }
+  },
+  "gamification": {
+    "title": "Becerilerinizi Geliştirin",
+    "level": "Seviye {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "Sonraki seviyeye {{points}} XP",
+    "achievements": "Başarılar",
+    "take_challenges": "Yeni Zorlukları Kabul Edin"
+  },
+  "showcase": {
+    "title": "Öne Çıkan İllüstrasyonlar",
+    "illustration_1": "Maria Garcia tarafından fantezi manzara",
+    "illustration_2": "Alex Wong tarafından karakter tasarımı",
+    "illustration_3": "Lena Mueller tarafından soyut kompozisyon"
+  },
+  "community": {
+    "title": "Topluluk Vitrini",
+    "by": "{{artist}} tarafından",
+    "view_gallery": "Tam Galeriyi Görüntüle",
+    "artwork_1": {
+      "alt": "Fütüristik şehir manzarası illüstrasyonu",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "Büyülü orman yaratıkları illüstrasyonu",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "Sürrealist portre illüstrasyonu",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. Rakipler",
+    "feature": "Özellik",
+    "us": "IllustratorPro",
+    "competitor_1": "Rakip A",
+    "competitor_2": "Rakip B",
+    "feature_1": "Gelişmiş Fırça Motoru",
+    "feature_2": "Gerçek Zamanlı İş Birliği",
+    "feature_3": "Bulut Entegrasyonu",
+    "feature_4": "Vektör ve Raster Desteği",
+    "feature_5": "Özelleştirilmiş Eklenti Geliştirme",
+    "feature_6": "7/24 Öncelikli Destek"
+  },
+  "affiliate": {
+    "title": "Ortaklık Programımıza Katılın",
+    "description": "IllustratorPro'yu kitlenize tanıtarak komisyon kazanın.",
+    "join_now": "Hemen Katılın",
+    "benefit_1": {
+      "title": "Yüksek Komisyonlar",
+      "description": "Yönlendirdiğiniz her satıştan %30'a kadar kazanın."
+    },
+    "benefit_2": {
+      "title": "Pazarlama Materyalleri",
+      "description": "Bannerlar, açılış sayfaları ve e-posta şablonlarından oluşan bir kitaplığa erişin."
+    },
+    "benefit_3": {
+      "title": "Gerçek Zamanlı Analiz",
+      "description": "Ayrıntılı raporlar ve analizlerle performansınızı takip edin."
+    }
+  },
+  "press": {
+    "title": "IllustratorPro Basında",
+    "download_kit": "Basın Kitini İndir",
+    "item_1": {
+      "name": "Makale 1",
+      "quote": "IllustratorPro, dijital illüstrasyon endüstrisinde yeni standartlar belirliyor."
+    },
+    "item_2": {
+      "name": "Makale 2",
+      "quote": "Hem profesyonel sanatçılar hem de yükselenler için bir dönüm noktası."
+    },
+    "item_3": {
+      "name": "Makale 3",
+      "quote": "Yıllardır gördüğümüz en yenilikçi illüstrasyon yazılımı."
+    }
+  },
+  "integration": {
+    "title": "Güçlü Entegrasyonlar",
+    "description": "IllustratorPro'yu favori araçlarınız ve hizmetlerinizle sorunsuz bir şekilde bağlayın.",
+    "view_all": "Tüm Entegrasyonları Görüntüle"
+  },
+  "education": {
+    "title": "Eğitim Kaynakları",
+    "type": "Kaynak Türü",
+    "learn_more": "Daha Fazla Bilgi Edinin",
+    "explore_resources": "Tüm Kaynakları Keşfedin",
+    "resource_1": {
+      "title": "Dijital İllüstrasyon Ustalığı",
+      "type": "Video Kursu"
+    },
+    "resource_2": {
+      "title": "Renk Teorisi ve Kompozisyon",
+      "type": "Etkileşimli Eğitim"
+    },
+    "resource_3": {
+      "title": "Animasyon için İllüstrasyon",
+      "type": "Webinar Serisi"
+    }
+  },
+  "localization": {
+    "title": "Dilinizde Mevcut",
+    "description": "IllustratorPro, dünya çapındaki kullanıcılar için yerelleştirildi.",
+    "view_all": "Tüm Dilleri Görüntüle"
+  },
+  "social_proof": {
+    "title": "Büyüyen Topluluğumuza Katılın",
+    "active_users": "{{count}} aktif kullanıcı",
+    "projects_created": "Bugün {{count}} proje oluşturuldu"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "Her seviyedeki sanatçılar için profesyonel illüstrasyon yazılımı.",
+    "quick_links": "Hızlı Linkler",
+    "features": "Özellikler",
+    "pricing": "Fiyatlar",
+    "testimonials": "Görüşler",
+    "faq": "SSS",
+    "blog": "Blog",
+    "resources": "Kaynaklar",
+    "legal": "Yasal",
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_of_service": "Hizmet Koşulları",
+    "newsletter": "Bülten",
+    "enter_email": "E-postanızı girin",
+    "subscribe": "Abone Ol",
+    "all_rights_reserved": "Tüm hakları saklıdır."
+  },
+  "cookie_consent": {
+    "message": "Deneyiminizi iyileştirmek için çerezleri kullanıyoruz. Bu siteyi ziyaret etmeye devam ederek çerez kullanımımızı kabul etmiş olursunuz.",
+    "accept": "Kabul Et"
+  },
+  "chatbot": {
+    "placeholder": "Mesajınızı buraya yazın...",
+    "send": "Gönder",
+    "type_your_message": "Mesajınızı buraya yazın...",
+    "error_message": "Üzgünüm, bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+  }
+}

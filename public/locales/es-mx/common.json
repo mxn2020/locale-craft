@@ -1,0 +1,297 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "Software Profesional de Ilustración",
+    "description": "Crea ilustraciones impresionantes con nuestro software potente e intuitivo.",
+    "og_title": "IllustratorPro - Software Profesional de Ilustración",
+    "og_description": "Desata tu creatividad con IllustratorPro. Crea, edita y comparte ilustraciones impresionantes.",
+    "twitter_title": "IllustratorPro - Crea Ilustraciones Increíbles",
+    "twitter_description": "Software de ilustración de nivel profesional para artistas de todos los niveles. ¡Prueba IllustratorPro hoy!"
+  },
+  "nav": {
+    "features": "Características",
+    "pricing": "Precios",
+    "testimonials": "Testimonios",
+    "faq": "Preguntas Frecuentes",
+    "blog": "Blog",
+    "get_started": "Comenzar"
+  },
+  "hero": {
+    "title_a": "Libera Tu Potencial Creativo",
+    "subtitle_a": "Crea ilustraciones impresionantes con nuestro software potente e intuitivo.",
+    "cta_a": "Empieza a Crear Ahora",
+    "title_b": "Ilustraciones Profesionales Hechas Fácilmente",
+    "subtitle_b": "Empodera tu visión artística con nuestras herramientas avanzadas de ilustración.",
+    "cta_b": "Prueba Gratis",
+    "title_c": "Eleva Tu Arte con IllustratorPro",
+    "subtitle_c": "De concepto a obra maestra: da vida a tus ideas.",
+    "cta_c": "Comienza Tu Viaje",
+    "title_d": "Ilustración Reimaginada",
+    "subtitle_d": "Herramientas de vanguardia se encuentran con creatividad sin límites. Comienza tu prueba gratuita hoy.",
+    "cta_d": "Lanza Tu Prueba Gratis",
+    "learn_more": "Saber Más",
+    "image_alt": "Muestra de Ilustración"
+  },
+  "features": {
+    "title": "Poderosas Características para Cada Artista",
+    "feature_1": {
+      "title": "Motor de Pincel Avanzado",
+      "description": "Crea cualquier estilo con nuestro sistema de pinceles personalizable."
+    },
+    "feature_2": {
+      "title": "Gestión de Capas",
+      "description": "Organiza tu trabajo con controles de capas intuitivos."
+    },
+    "feature_3": {
+      "title": "Colaboración en Tiempo Real",
+      "description": "Trabaja juntos sin problemas con funciones de compartición en vivo."
+    },
+    "feature_4": {
+      "title": "Integración en la Nube",
+      "description": "Accede a tus proyectos en cualquier lugar, en cualquier momento."
+    }
+  },
+  "demo": {
+    "title": "Ve IllustratorPro en Acción",
+    "loading": "Cargando demostración...",
+    "error": "¡Ups! Algo salió mal al cargar la demostración.",
+    "description": "Experimenta el poder y la flexibilidad de IllustratorPro con nuestra demostración interactiva."
+  },
+  "pricing": {
+    "title": "Elige el Plan Perfecto para Ti",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "per_month": "/mes",
+    "per_year": "/año",
+    "choose_plan": "Elige {{plan}}",
+    "plan_free": {
+      "name": "Gratis",
+      "feature_1": "Herramientas y pinceles básicos",
+      "feature_2": "5 proyectos en la nube",
+      "feature_3": "Soporte comunitario"
+    },
+    "plan_pro": {
+      "name": "Pro",
+      "feature_1": "Herramientas y pinceles avanzados",
+      "feature_2": "Proyectos ilimitados en la nube",
+      "feature_3": "Soporte prioritario",
+      "feature_4": "Funciones de colaboración"
+    },
+    "plan_enterprise": {
+      "name": "Empresarial",
+      "feature_1": "Todas las funciones de Pro",
+      "feature_2": "Desarrollo de pinceles personalizados",
+      "feature_3": "Gerente de cuenta dedicado",
+      "feature_4": "Opción de implementación en las instalaciones"
+    },
+    "plan_ultimate": {
+      "name": "Ultimate",
+      "feature_1": "Todas las funciones de Empresarial",
+      "feature_2": "Acceso anticipado a nuevas funciones",
+      "feature_3": "Sesiones de entrenamiento personal",
+      "feature_4": "Soporte de integración personalizada"
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Usuarios",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "Ilustradora Freelance",
+      "quote": "IllustratorPro ha revolucionado mi flujo de trabajo. La interfaz intuitiva y las potentes características me permiten dar vida a mis ideas más rápido que nunca."
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "Director de Arte",
+      "quote": "Como director de arte, necesito herramientas confiables que puedan seguir el ritmo de nuestros proyectos de ritmo rápido. IllustratorPro cumple en todos los frentes."
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "Diseñadora de Personajes",
+      "quote": "El motor de pinceles en IllustratorPro es inigualable. Puedo crear cualquier estilo que necesite, desde arte vectorial elegante hasta ilustraciones texturizadas."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "question_1": "¿Es IllustratorPro adecuado para principiantes?",
+    "answer_1": "¡Absolutamente! Aunque IllustratorPro ofrece funciones avanzadas para profesionales, también incluye herramientas intuitivas y tutoriales que lo hacen accesible para principiantes.",
+    "question_2": "¿Puedo usar IllustratorPro en múltiples dispositivos?",
+    "answer_2": "Sí, tu licencia de IllustratorPro te permite usar el software en hasta dos dispositivos, y nuestra integración en la nube asegura que tus proyectos estén siempre actualizados.",
+    "question_3": "¿Ofrecen una garantía de devolución de dinero?",
+    "answer_3": "Ofrecemos una garantía de devolución de dinero de 30 días para todos los planes de pago. Si no estás satisfecho con IllustratorPro, puedes solicitar un reembolso completo dentro de los primeros 30 días de tu compra.",
+    "question_4": "¿Con qué frecuencia lanzan actualizaciones?",
+    "answer_4": "Lanzamos actualizaciones menores y correcciones de errores mensualmente, con actualizaciones de funciones principales generalmente publicadas trimestralmente. Todas las actualizaciones son gratuitas para los suscriptores.",
+    "question_5": "¿Puedo importar archivos desde otro software de ilustración?",
+    "answer_5": "Sí, IllustratorPro admite la importación de archivos desde la mayoría del software de ilustración principal, incluidos los formatos .ai, .psd y .svg."
+  },
+  "blog": {
+    "title": "Lo Último en Nuestro Blog",
+    "read_more": "Leer Más",
+    "view_all": "Ver Todas las Publicaciones",
+    "post_1": {
+      "title": "10 Técnicas Esenciales de Ilustración Que Todo Artista Debe Conocer",
+      "excerpt": "Descubre las técnicas fundamentales que pueden elevar tus ilustraciones al siguiente nivel."
+    },
+    "post_2": {
+      "title": "Teoría del Color para Artistas Digitales: Una Guía Completa",
+      "excerpt": "Aprende a usar el color de manera efectiva en tus ilustraciones digitales con esta guía detallada."
+    },
+    "post_3": {
+      "title": "Del Boceto a la Obra Final: Un Tutorial Paso a Paso",
+      "excerpt": "Sigue mientras te llevamos por el proceso de crear una ilustración pulida desde el concepto inicial hasta la pieza final."
+    }
+  },
+  "resources": {
+    "title": "Recursos para Ayudarte a Tener Éxito",
+    "download": "Descargar",
+    "resource_1": {
+      "title": "Guía para Principiantes en Ilustración Digital",
+      "description": "Una guía completa en PDF que cubre los conceptos básicos de la ilustración digital."
+    },
+    "resource_2": {
+      "title": "Serie de Videos de Técnicas Avanzadas",
+      "description": "Tutoriales en video detallados que exploran técnicas avanzadas de ilustración."
+    },
+    "resource_3": {
+      "title": "Paquete de Pinceles Personalizados",
+      "description": "Una colección de más de 50 pinceles personalizados para mejorar tus ilustraciones."
+    }
+  },
+  "gamification": {
+    "title": "Mejora Tus Habilidades",
+    "level": "Nivel {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "{{points}} XP para el próximo nivel",
+    "achievements": "Logros",
+    "take_challenges": "Acepta Nuevos Desafíos"
+  },
+  "showcase": {
+    "title": "Ilustraciones Destacadas",
+    "illustration_1": "Paisaje fantástico por Maria Garcia",
+    "illustration_2": "Diseño de personaje por Alex Wong",
+    "illustration_3": "Composición abstracta por Lena Mueller"
+  },
+  "community": {
+    "title": "Muestra de la Comunidad",
+    "by": "por {{artist}}",
+    "view_gallery": "Ver Galería Completa",
+    "artwork_1": {
+      "alt": "Ilustración de paisaje urbano futurista",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "Ilustración de criaturas del bosque encantadas",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "Ilustración de retrato surrealista",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. Competidores",
+    "feature": "Característica",
+    "us": "IllustratorPro",
+    "competitor_1": "Competidor A",
+    "competitor_2": "Competidor B",
+    "feature_1": "Motor de Pincel Avanzado",
+    "feature_2": "Colaboración en Tiempo Real",
+    "feature_3": "Integración en la Nube",
+    "feature_4": "Soporte Vectorial y de Ráster",
+    "feature_5": "Desarrollo de Plugins Personalizados",
+    "feature_6": "Soporte Prioritario 24/7"
+  },
+  "affiliate": {
+    "title": "Únete a Nuestro Programa de Afiliados",
+    "description": "Gana comisiones promocionando IllustratorPro a tu audiencia.",
+    "join_now": "Únete Ahora",
+    "benefit_1": {
+      "title": "Altas Comisiones",
+      "description": "Gana hasta un 30% en cada venta que refieras."
+    },
+    "benefit_2": {
+      "title": "Materiales de Marketing",
+      "description": "Accede a una biblioteca de banners, páginas de destino y plantillas de correo electrónico."
+    },
+    "benefit_3": {
+      "title": "Analítica en Tiempo Real",
+      "description": "Rastrea tu rendimiento con informes detallados y análisis."
+    }
+  },
+  "press": {
+    "title": "IllustratorPro en la Prensa",
+    "download_kit": "Descargar Kit de Prensa",
+    "item_1": {
+      "name": "Artículo 1",
+      "quote": "IllustratorPro está estableciendo nuevos estándares en la industria de la ilustración digital."
+    },
+    "item_2": {
+      "name": "Artículo 2",
+      "quote": "Un cambio de juego tanto para artistas profesionales como para aspirantes."
+    },
+    "item_3": {
+      "name": "Artículo 3",
+      "quote": "El software de ilustración más innovador que hemos visto en años."
+    }
+  },
+  "integration": {
+    "title": "Integraciones Poderosas",
+    "description": "Conecta IllustratorPro de forma fluida con tus herramientas y servicios favoritos.",
+    "view_all": "Ver Todas las Integraciones"
+  },
+  "education": {
+    "title": "Recursos Educativos",
+    "type": "Tipo de Recurso",
+    "learn_more": "Saber Más",
+    "explore_resources": "Explorar Todos los Recursos",
+    "resource_1": {
+      "title": "Domina la Ilustración Digital",
+      "type": "Curso en Video"
+    },
+    "resource_2": {
+      "title": "Teoría del Color y Composición",
+      "type": "Tutorial Interactivo"
+    },
+    "resource_3": {
+      "title": "Ilustración para Animación",
+      "type": "Serie de Webinars"
+    }
+  },
+  "localization": {
+    "title": "Disponible en Tu Idioma",
+    "description": "IllustratorPro está localizado para usuarios de todo el mundo.",
+    "view_all": "Ver Todos los Idiomas"
+  },
+  "social_proof": {
+    "title": "Únete a Nuestra Creciente Comunidad",
+    "active_users": "{{count}} usuarios activos",
+    "projects_created": "{{count}} proyectos creados hoy"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "Software profesional de ilustración para artistas de todos los niveles.",
+    "quick_links": "Enlaces Rápidos",
+    "features": "Características",
+    "pricing": "Precios",
+    "testimonials": "Testimonios",
+    "faq": "Preguntas Frecuentes",
+    "blog": "Blog",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "privacy_policy": "Política de Privacidad",
+    "terms_of_service": "Términos de Servicio",
+    "newsletter": "Boletín Informativo",
+    "enter_email": "Introduce tu correo electrónico",
+    "subscribe": "Suscribirse",
+    "all_rights_reserved": "Todos los derechos reservados."
+  },
+  "cookie_consent": {
+    "message": "Usamos cookies para mejorar tu experiencia. Al continuar visitando este sitio, aceptas nuestro uso de cookies.",
+    "accept": "Aceptar"
+  },
+  "chatbot": {
+    "placeholder": "Escribe tu mensaje aquí...",
+    "send": "Enviar",
+    "type_your_message": "Escribe tu mensaje...",
+    "error_message": "Lo siento, he encontrado un error. Por favor, intenta de nuevo más tarde."
+  }
+}

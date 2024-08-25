@@ -1,0 +1,22 @@
+{
+  "layer1": "Livello 1",
+  "layer2": "Livello 2",
+  "activeLayer": "Livello Attivo",
+  "exportSVG": "Esporta come SVG",
+  "exportPNG": "Esporta come PNG",
+  "exportJPEG": "Esporta come JPEG",
+  "exportPDF": "Esporta come PDF",
+  "selectTool": "Strumento di Selezione",
+  "penTool": "Strumento Penna",
+  "rectangleTool": "Strumento Rettangolo",
+  "ellipseTool": "Strumento Ellisse",
+  "draw": "Disegna",
+  "layers": "Livelli",
+  "strokeColor": "Colore Contorno",
+  "fillColor": "Colore Riempimento",
+  "enableFill": "Abilita Riempimento",
+  "disableFill": "Disabilita Riempimento",
+  "brushSize": "Dimensione Pennello",
+  "newLayer": "Nuovo Livello {{count}}",
+  "addLayer": "Aggiungi Livello"
+}

@@ -1,0 +1,297 @@
+{
+  "app_name": "IllustratorPro",
+  "meta": {
+    "title": "Professionele Illustratie Software",
+    "description": "Maak verbluffende illustraties met onze krachtige en intuïtieve software.",
+    "og_title": "IllustratorPro - Professionele Illustratie Software",
+    "og_description": "Ontketen je creativiteit met IllustratorPro. Maak, bewerk en deel verbluffende illustraties.",
+    "twitter_title": "IllustratorPro - Maak Geweldige Illustraties",
+    "twitter_description": "Illustratiesoftware van professioneel niveau voor kunstenaars van alle niveaus. Probeer IllustratorPro vandaag nog!"
+  },
+  "nav": {
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "testimonials": "Getuigenissen",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "get_started": "Begin Nu"
+  },
+  "hero": {
+    "title_a": "Ontketen Je Creatieve Potentieel",
+    "subtitle_a": "Maak verbluffende illustraties met onze krachtige en intuïtieve software.",
+    "cta_a": "Begin Nu Met Creëren",
+    "title_b": "Professionele Illustraties Makkelijk Gemaakt",
+    "subtitle_b": "Versterk je artistieke visie met onze geavanceerde illustratietools.",
+    "cta_b": "Probeer Het Gratis",
+    "title_c": "Til Je Kunst Naar een Hoger Niveau met IllustratorPro",
+    "subtitle_c": "Van concept tot meesterwerk - breng je ideeën tot leven.",
+    "cta_c": "Begin Je Reis",
+    "title_d": "Illustratie Heruitgevonden",
+    "subtitle_d": "Geavanceerde tools ontmoeten eindeloze creativiteit. Start vandaag je gratis proefperiode.",
+    "cta_d": "Start Je Gratis Proefperiode",
+    "learn_more": "Lees Meer",
+    "image_alt": "Illustratievoorbeeld"
+  },
+  "features": {
+    "title": "Krachtige Functies voor Elke Kunstenaar",
+    "feature_1": {
+      "title": "Geavanceerde Penselmotor",
+      "description": "Creëer elke stijl met ons aanpasbare penselsysteem."
+    },
+    "feature_2": {
+      "title": "Laagbeheer",
+      "description": "Organiseer je werk met intuïtieve laagcontroles."
+    },
+    "feature_3": {
+      "title": "Samenwerking in Echt Tijd",
+      "description": "Werk naadloos samen met live-deelfuncties."
+    },
+    "feature_4": {
+      "title": "Cloudintegratie",
+      "description": "Toegang tot je projecten overal en altijd."
+    }
+  },
+  "demo": {
+    "title": "Zie IllustratorPro in Actie",
+    "loading": "Demo laden...",
+    "error": "Oeps! Er is iets misgegaan bij het laden van de demo.",
+    "description": "Ervaar de kracht en flexibiliteit van IllustratorPro met onze interactieve demo."
+  },
+  "pricing": {
+    "title": "Kies het Perfecte Plan voor Jou",
+    "monthly": "Maandelijks",
+    "yearly": "Jaarlijks",
+    "per_month": "/maand",
+    "per_year": "/jaar",
+    "choose_plan": "Kies {{plan}}",
+    "plan_free": {
+      "name": "Gratis",
+      "feature_1": "Basisgereedschappen en penselen",
+      "feature_2": "5 cloudprojecten",
+      "feature_3": "Gemeenschapsondersteuning"
+    },
+    "plan_pro": {
+      "name": "Pro",
+      "feature_1": "Geavanceerde gereedschappen en penselen",
+      "feature_2": "Onbeperkte cloudprojecten",
+      "feature_3": "Prioritaire ondersteuning",
+      "feature_4": "Samenwerkingsfuncties"
+    },
+    "plan_enterprise": {
+      "name": "Enterprise",
+      "feature_1": "Alle Pro-functies",
+      "feature_2": "Ontwikkeling van aangepaste penselen",
+      "feature_3": "Toegewijde accountmanager",
+      "feature_4": "On-premise implementatieoptie"
+    },
+    "plan_ultimate": {
+      "name": "Ultimate",
+      "feature_1": "Alle Enterprise-functies",
+      "feature_2": "Vroege toegang tot nieuwe functies",
+      "feature_3": "Persoonlijke trainingssessies",
+      "feature_4": "Ondersteuning voor aangepaste integratie"
+    }
+  },
+  "testimonials": {
+    "title": "Wat Onze Gebruikers Zeggen",
+    "testimonial_1": {
+      "name": "Sarah Johnson",
+      "role": "Freelance Illustratrice",
+      "quote": "IllustratorPro heeft mijn werkstroom volledig veranderd. De intuïtieve interface en krachtige functies stellen me in staat om mijn ideeën sneller tot leven te brengen dan ooit tevoren."
+    },
+    "testimonial_2": {
+      "name": "Michael Chen",
+      "role": "Art Director",
+      "quote": "Als art director heb ik betrouwbare tools nodig die kunnen voldoen aan de hoge eisen van onze snel bewegende projecten. IllustratorPro levert op alle fronten."
+    },
+    "testimonial_3": {
+      "name": "Emily Rodriguez",
+      "role": "Karakterontwerper",
+      "quote": "De penselmotor in IllustratorPro is ongeëvenaard. Ik kan elke stijl creëren die ik nodig heb, van strakke vectorillustraties tot getextureerde kunstwerken."
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "question_1": "Is IllustratorPro geschikt voor beginners?",
+    "answer_1": "Absoluut! Hoewel IllustratorPro geavanceerde functies biedt voor professionals, bevat het ook intuïtieve tools en tutorials die het toegankelijk maken voor beginners.",
+    "question_2": "Kan ik IllustratorPro op meerdere apparaten gebruiken?",
+    "answer_2": "Ja, je IllustratorPro-licentie stelt je in staat om de software op maximaal twee apparaten te gebruiken en onze cloudintegratie zorgt ervoor dat je projecten altijd up-to-date zijn.",
+    "question_3": "Bieden jullie een geld-terug-garantie?",
+    "answer_3": "We bieden een geld-terug-garantie van 30 dagen voor alle betaalde plannen. Als je niet tevreden bent met IllustratorPro, kun je binnen de eerste 30 dagen na je aankoop een volledige terugbetaling aanvragen.",
+    "question_4": "Hoe vaak brengen jullie updates uit?",
+    "answer_4": "We brengen maandelijks kleine updates en bugfixes uit, met grote functie-updates die doorgaans driemaandelijks worden uitgebracht. Alle updates zijn gratis voor abonnees.",
+    "question_5": "Kan ik bestanden importeren uit andere illustratiesoftware?",
+    "answer_5": "Ja, IllustratorPro ondersteunt het importeren van bestanden uit de meeste grote illustratiesoftware, inclusief .ai-, .psd- en .svg-formaten."
+  },
+  "blog": {
+    "title": "Laatste van Ons Blog",
+    "read_more": "Lees Verder",
+    "view_all": "Bekijk Alle Berichten",
+    "post_1": {
+      "title": "10 Essentiële Illustratietechnieken Die Elke Kunstenaar Moet Weten",
+      "excerpt": "Ontdek de fundamentele technieken die je illustraties naar een hoger niveau kunnen tillen."
+    },
+    "post_2": {
+      "title": "Kleurentheorie voor Digitale Kunstenaars: Een Uitgebreide Gids",
+      "excerpt": "Leer hoe je kleur effectief kunt gebruiken in je digitale illustraties met deze diepgaande gids."
+    },
+    "post_3": {
+      "title": "Van Schets tot Eindkunstwerk: Een Stapsgewijze Handleiding",
+      "excerpt": "Volg ons terwijl we je door het proces van het maken van een afgewerkte illustratie leiden, van het eerste concept tot het eindstuk."
+    }
+  },
+  "resources": {
+    "title": "Hulpmiddelen om je te Helpen Succesvol te Zijn",
+    "download": "Download",
+    "resource_1": {
+      "title": "Beginner's Guide to Digital Illustration",
+      "description": "Een uitgebreide PDF-gids die de basisprincipes van digitale illustratie behandelt."
+    },
+    "resource_2": {
+      "title": "Advanced Techniques Video Series",
+      "description": "Diepgaande videotutorials die geavanceerde illustratietechnieken verkennen."
+    },
+    "resource_3": {
+      "title": "Custom Brush Pack",
+      "description": "Een verzameling van meer dan 50 aangepaste penselen om je illustraties te verbeteren."
+    }
+  },
+  "gamification": {
+    "title": "Verhoog je Vaardigheden",
+    "level": "Niveau {{level}}",
+    "points": "{{points}} XP",
+    "next_level": "{{points}} XP naar het volgende niveau",
+    "achievements": "Prestaties",
+    "take_challenges": "Ga Nieuwe Uitdagingen Aan"
+  },
+  "showcase": {
+    "title": "Uitgelichte Illustraties",
+    "illustration_1": "Fantasielandschap door Maria Garcia",
+    "illustration_2": "Karakterontwerp door Alex Wong",
+    "illustration_3": "Abstracte compositie door Lena Mueller"
+  },
+  "community": {
+    "title": "Community Showcase",
+    "by": "door {{artist}}",
+    "view_gallery": "Bekijk Volledige Galerij",
+    "artwork_1": {
+      "alt": "Illustratie van futuristisch stadsgezicht",
+      "artist": "Chris Taylor"
+    },
+    "artwork_2": {
+      "alt": "Illustratie van betoverde boswezens",
+      "artist": "Yuki Tanaka"
+    },
+    "artwork_3": {
+      "alt": "Surrealistisch portretillustratie",
+      "artist": "Zoe Adams"
+    }
+  },
+  "comparison": {
+    "title": "IllustratorPro vs. Concurrenten",
+    "feature": "Kenmerk",
+    "us": "IllustratorPro",
+    "competitor_1": "Concurrent A",
+    "competitor_2": "Concurrent B",
+    "feature_1": "Geavanceerde Penselmotor",
+    "feature_2": "Samenwerking in Echt Tijd",
+    "feature_3": "Cloudintegratie",
+    "feature_4": "Vector- en Rasterondersteuning",
+    "feature_5": "Ontwikkeling van Aangepaste Plugins",
+    "feature_6": "Prioritaire Ondersteuning 24/7"
+  },
+  "affiliate": {
+    "title": "Word Lid van Ons Affiliate Programma",
+    "description": "Verdien commissies door IllustratorPro te promoten bij je publiek.",
+    "join_now": "Word Lid",
+    "benefit_1": {
+      "title": "Hoge Commissies",
+      "description": "Verdien tot 30% op elke verkoop die je doorverwijst."
+    },
+    "benefit_2": {
+      "title": "Marketingmaterialen",
+      "description": "Toegang tot een bibliotheek met banners, bestemmingspagina's en e-mailtemplates."
+    },
+    "benefit_3": {
+      "title": "Realtime Analyse",
+      "description": "Volg je prestaties met gedetailleerde rapporten en analyses."
+    }
+  },
+  "press": {
+    "title": "IllustratorPro in de Pers",
+    "download_kit": "Download Perskit",
+    "item_1": {
+      "name": "Artikel 1",
+      "quote": "IllustratorPro stelt nieuwe normen in de digitale illustratie-industrie."
+    },
+    "item_2": {
+      "name": "Artikel 2",
+      "quote": "Een game changer voor zowel professionele als aspirant-kunstenaars."
+    },
+    "item_3": {
+      "name": "Artikel 3",
+      "quote": "De meest innovatieve illustratiesoftware die we in jaren hebben gezien."
+    }
+  },
+  "integration": {
+    "title": "Krachtige Integraties",
+    "description": "Verbind IllustratorPro naadloos met je favoriete tools en services.",
+    "view_all": "Bekijk Alle Integraties"
+  },
+  "education": {
+    "title": "Educatieve Middelen",
+    "type": "Soort Bron",
+    "learn_more": "Lees Meer",
+    "explore_resources": "Ontdek Alle Bronnen",
+    "resource_1": {
+      "title": "Beheersing van Digitale Illustratie",
+      "type": "Videocursus"
+    },
+    "resource_2": {
+      "title": "Kleurentheorie en Compositie",
+      "type": "Interactieve Tutorial"
+    },
+    "resource_3": {
+      "title": "Illustratie voor Animatie",
+      "type": "Webinar Serie"
+    }
+  },
+  "localization": {
+    "title": "Beschikbaar in Jouw Taal",
+    "description": "IllustratorPro is gelokaliseerd voor gebruikers over de hele wereld.",
+    "view_all": "Bekijk Alle Talen"
+  },
+  "social_proof": {
+    "title": "Word Lid van Onze Groeiende Gemeenschap",
+    "active_users": "{{count}} actieve gebruikers",
+    "projects_created": "{{count}} projecten vandaag gemaakt"
+  },
+  "footer": {
+    "app_name": "IllustratorPro",
+    "description": "Professionele illustratiesoftware voor kunstenaars van alle niveaus.",
+    "quick_links": "Snelle Links",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "testimonials": "Getuigenissen",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "resources": "Hulpmiddelen",
+    "legal": "Wettelijk",
+    "privacy_policy": "Privacybeleid",
+    "terms_of_service": "Servicevoorwaarden",
+    "newsletter": "Nieuwsbrief",
+    "enter_email": "Voer je e-mailadres in",
+    "subscribe": "Abonneren",
+    "all_rights_reserved": "Alle rechten voorbehouden."
+  },
+  "cookie_consent": {
+    "message": "We gebruiken cookies om je ervaring te verbeteren. Door deze site te blijven bezoeken, ga je akkoord met ons gebruik van cookies.",
+    "accept": "Accepteren"
+  },
+  "chatbot": {
+    "placeholder": "Typ hier je bericht...",
+    "send": "Verstuur",
+    "type_your_message": "Typ je bericht...",
+    "error_message": "Sorry, er is een fout opgetreden. Probeer het later opnieuw."
+  }
+}

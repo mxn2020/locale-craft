@@ -1,0 +1,22 @@
+{
+  "layer1": "Katman 1",
+  "layer2": "Katman 2",
+  "activeLayer": "Aktif Katman",
+  "exportSVG": "SVG olarak dışa aktar",
+  "exportPNG": "PNG olarak dışa aktar",
+  "exportJPEG": "JPEG olarak dışa aktar",
+  "exportPDF": "PDF olarak dışa aktar",
+  "selectTool": "Seçim Aracı",
+  "penTool": "Kalem Aracı",
+  "rectangleTool": "Dikdörtgen Aracı",
+  "ellipseTool": "Elips Aracı",
+  "draw": "Çiz",
+  "layers": "Katmanlar",
+  "strokeColor": "Çizgi Rengi",
+  "fillColor": "Dolgu Rengi",
+  "enableFill": "Dolguyu Etkinleştir",
+  "disableFill": "Dolguyu Devre Dışı Bırak",
+  "brushSize": "Fırça Boyutu",
+  "newLayer": "Yeni Katman {{count}}",
+  "addLayer": "Katman Ekle"
+}

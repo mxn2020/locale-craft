@@ -1,0 +1,22 @@
+{
+  "layer1": "图层 1",
+  "layer2": "图层 2",
+  "activeLayer": "活动图层",
+  "exportSVG": "导出为 SVG",
+  "exportPNG": "导出为 PNG",
+  "exportJPEG": "导出为 JPEG",
+  "exportPDF": "导出为 PDF",
+  "selectTool": "选择工具",
+  "penTool": "钢笔工具",
+  "rectangleTool": "矩形工具",
+  "ellipseTool": "椭圆工具",
+  "draw": "绘图",
+  "layers": "图层",
+  "strokeColor": "描边颜色",
+  "fillColor": "填充颜色",
+  "enableFill": "启用填充",
+  "disableFill": "禁用填充",
+  "brushSize": "画笔大小",
+  "newLayer": "新图层 {{count}}",
+  "addLayer": "添加图层"
+}
